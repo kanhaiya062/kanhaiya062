@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kanhaiyamahto16" target="blank"><img src="https://img.shields.io/twitter/follow/kanhaiyamahto16?logo=twitter&style=for-the-badge" alt="kanhaiyamahto16" /></a> </p>
 
-- 🔭 I’m currently working on **coming soon**
+- 🔭 I’m currently working on **freelancer.com**
 
 - 🌱 I’m currently learning **Cloud computing,ML**
 
