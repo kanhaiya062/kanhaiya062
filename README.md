@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **freelancer.com**
 
-- 🌱 I’m currently learning **Cloud computing,ML**
+- 🌱 I’m currently learning **MEARN Fullstack,ML**
 
 - 👯 I’m looking to collaborate on **Object Recognition**
 
