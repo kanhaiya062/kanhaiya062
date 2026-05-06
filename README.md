@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kanhaiyamahto16" target="blank"><img src="https://img.shields.io/twitter/follow/kanhaiyamahto16?logo=twitter&style=for-the-badge" alt="kanhaiyamahto16" /></a> </p>
 
-- 🔭 I’m currently working on **freelancer.com**
+- 🔭 I’m currently working on **Appen**
 
 - 🌱 I’m currently learning **MERN Fullstack,ML**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Krishkanhaiya012@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nj_WH0H6Hsiisb9P9RC-qZFysXCAK9BJ/view?usp=sharing](https://drive.google.com/file/d/1nj_WH0H6Hsiisb9P9RC-qZFysXCAK9BJ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1nj_WH0H6Hsiisb9P9RC-qZFysXCAK9BJ/view?usp=sharing](www.Kanhaiya.info)
 <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" align="right" width="400"   alt="">
 
 <h3 align="left">Connect with me:</h3>
